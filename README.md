@@ -1,39 +1,51 @@
+<!-- Saludo -->
 <div align="center">
-  <h2> ¡Ey, muchachos, por la sombrita! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
-
-<div align="center" width="50">
-  <img src="https://i.imgur.com/dTYwdG1.gif" alt="¡Hola!" width="300"/>
-</div>
-
-<div align="center">
-  ¡Has llegado a mi perfil de GitHub! 🎉<br>
-  Aquí encontrarás algunos de mis proyectos, ideas y experimentos. <br>
-  Si ves algo que pueda mejorar, siéntete libre de clonar/forkear el repositorio, abrir un issue o enviar un pull request. <br>
-  Pregúntame lo que quieras <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>aquí</b></a><br>
-  o <a href="mailto:absphreak@outlook.com"><b>envíame un correo</b></a>.
-  
-  <i>¡Feliz código! 🚀</i>
-</div>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Estadísticas de mi GitHub">
-  
+  <h1>¡Hola! Soy MigueDk 😎</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
   <br><br>
-  <i>Un chiste de programadores para ti 👇</i><br>
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?lang=es" alt="Chistes de programación"></a>
+  <img src="https://i.imgur.com/dTYwdG1.gif" width="300"/>
+</div>
 
 ---
 
-[![Contador de visitas](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+<!-- Sobre mí -->
+### 👨‍💻 Sobre mí
+- 📍 Desde Medellín, Colombia 🇨🇴  
+- 💻 Apasionado por la programación, la tecnología y crear cosas nuevas.  
+- 🚀 Interesado en inteligencia artificial, ciberseguridad y startups.  
+- 🎯 Siempre aprendiendo algo nuevo.  
 
-<i>Sígueme en mis redes:</i><br>
+---
 
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<!-- Habilidades -->
+### 🛠️ Tecnologías y herramientas
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap,git,github,python" />
 </div>
 
+---
 
+<!-- Proyectos -->
+### 🚀 Proyectos destacados
+[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=ABSphreak&repo=RepoEjemplo&theme=radical)](https://github.com/ABSphreak/RepoEjemplo)  
+[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=ABSphreak&repo=OtroRepo&theme=radical)](https://github.com/ABSphreak/OtroRepo)  
+
+---
+
+<!-- Estadísticas -->
+### 📊 Mis estadísticas en GitHub
+<img src="https://github-readme-stats.vercel.app/api?username=ABSphreak&show_icons=true&theme=tokyonight" alt="Estadísticas GitHub" />
+
+---
+
+<!-- Chiste -->
+### 😂 Un chiste de programadores
+<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api?lang=es" alt="Chistes de programación"></a>
+
+---
+
+<!-- Contacto -->
+### 📫 Conecta conmigo
+<a href="https://linkedin.com/in/absphreak"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/absphreak"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" /></a>
+<a href="mailto:absphreak@outlook.com"><img src="https://img.shields.io/badge/Correo-%23EA4335.svg?&style=flat&logo=gmail&logoColor=white" /></a>
