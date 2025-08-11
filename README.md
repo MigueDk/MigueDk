@@ -10,7 +10,7 @@
 
 <!-- Sobre mí -->
 ### 👨‍💻 Sobre mí
-- 📍 Desde Medellín, Colombia 🇨🇴  
+- 📍 Desde Medellín, Colombia 
 - 💻 Apasionado por la programación, la economia y crear cosas nuevas.  
 - 🚀 Interesado en inteligencia artificial, inversiones y startups.  
 - 🎯 Siempre aprendiendo algo nuevo.  
